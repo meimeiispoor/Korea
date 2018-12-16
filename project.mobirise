@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Suthikarn513-17",
-    "currentPage": "HOME.html",
+    "currentPage": "MENU.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,13 +23,17 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 48,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/location-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "M2.html": {
       "settings": {
-        "title": "Web Site Creator Title",
-        "meta_descr": "Web Site Creator Description",
+        "title": "M2",
+        "meta_descr": "M2",
         "order": 3
       },
       "components": [
@@ -78,6 +82,11 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-9",
           "_params": {
             "imageSize": 50,
@@ -123,12 +132,7 @@
           },
           "title": "M2",
           "text": "ผับเกาหลี ย่านฮงแด แห่งแรก ที่เป็นแนวอิเล็คทรอนิกส์ ซึ่งเปิดให้บริการมายาวนานและเป็นที่นิยมของหนุ่มสาวเกาหลีมากว่า 10 ปี และจุคนได้ประมาณ 1,000 คน จึงไม่แปลกใจเลยว่าบางครั้งจะมีศิลปินและดีเจชื่อดังทั้งในและต่างประเทศมาจัดคอนเสิร์ตบ่อย แนวเพลงของร้านนี้จะเป็นแนวอิเล็กทรอนิกส์ และเพลงแนว Urban Trance<br><br>เวลาเปิด-ปิด : 21.30 – 05.00 น.<br>ราคาค่าเข้า : ราว ๆ 10,000 – 20,000 วอน (310 – 620 บาท) ขึ้นอยู่กับอีเว้นท์แต่ละวัน<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -181,8 +185,8 @@
     },
     "MENU.html": {
       "settings": {
-        "title": "Web Site Maker Title",
-        "meta_descr": "Web Site Maker Description",
+        "title": "MENU",
+        "meta_descr": "MENU",
         "order": 2
       },
       "components": [
@@ -231,6 +235,19 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#f7da64"
+            },
+            "H5": {
+              "color": "#f9de88",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "P": {
+              "color": "#cfc187"
+            }
+          },
           "_anchor": "features3-5",
           "_params": {
             "paddingTop": 2,
@@ -341,20 +358,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H4": {
-              "color": "#f7da64"
-            },
-            "H5": {
-              "color": "#f9de88",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "P": {
-              "color": "#cfc187"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -511,8 +515,8 @@
     "HOME.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "HOME",
+        "meta_descr": "HOME",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -524,6 +528,22 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "100px",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "color": "#000000"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "60px"
+            }
+          },
           "_anchor": "header1-0",
           "_params": {
             "parallax": true,
@@ -546,23 +566,7 @@
           },
           "title": "JOURNEY TO SOUTH KOREA<br><br><br>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "100px",
-              "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "color": "#000000"
-            },
-            ".mbr-section-lead SPAN": {
-              "color": "#000000",
-              "text-align": "center",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "60px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a> "
         },
         {
           "_tags": [
@@ -588,8 +592,8 @@
     },
     "NB2.html": {
       "settings": {
-        "title": "Site Creator Title",
-        "meta_descr": "Site Creator Description",
+        "title": "NB2",
+        "meta_descr": "NB2",
         "order": 4
       },
       "components": [
@@ -648,7 +652,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x11253.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x11255.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -741,8 +745,8 @@
     },
     "COCOON.html": {
       "settings": {
-        "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description",
+        "title": "COCOON",
+        "meta_descr": "COCOON",
         "order": 5
       },
       "components": [
@@ -791,6 +795,11 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-s",
           "_params": {
             "imageSize": 50,
@@ -836,12 +845,7 @@
           },
           "title": "COCOON",
           "text": "&nbsp;ผับเกาหลี ย่านดงแฮ ที่ได้รับความนิยมไม่แพ้กันของสาว ๆ และโอปป้าเกาหลี ผับ Cocoon เป็นผับที่เปิดเพลงผสมผสานหลากหลาย แต่ที่โดดเด่นคือเพลงแนวอิเล็กทรอนิกส์ และ R&amp;B ว่ากันว่าใครที่มาเที่ยวที่ผับแห่งนี้ หากจะต้องการจะออกไปโชว์สเต็ป ทุกท่านสามารถออกไปแดนซ์ได้อย่างเต็มที่<br><br>เวลาเปิด-ปิด : 21.00 – 06.30 น.<br>ราคาค่าเข้า : ราว ๆ 10,000 – 20,000 วอน (310 – 620 บาท) ขึ้นอยู่กับอีเว้นท์แต่ละวัน<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -894,7 +898,7 @@
     },
     "SECRET SOCIETY051.html": {
       "settings": {
-        "title": "Site Maker Title",
+        "title": "SECRET SOCIETY051",
         "meta_descr": "Site Maker Description",
         "order": 6
       },
@@ -944,6 +948,11 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-t",
           "_params": {
             "imageSize": 50,
@@ -989,12 +998,7 @@
           },
           "title": "SECRET SOCIETY051",
           "text": "คลับฮิฟฮอฟหน่อย ร้านนี้เป็นคลับของ Vasco ฮิพฮอพตัวพ่อจากรายการโชว์มี ที่มาเปิดย่านฮงแด พี่แกคอนเนคชั่นเยอะ ชอบมีศิลปินฮิพฮอพมาเปิดคอนบ่อยๆ อย่าง ซัมดี เกรย์ บีวาย เบสิค บลาๆ เคยมาเล่นกันหมด วันดีคืนดีพี่เค้าก็นัดเด็กๆแรปเปอร์มากินเหล้าที่ร้าน<br><br>วันอังคาร พุธ พฤหัส อาทิตย์เฮียแกจะเปิดเป็นร้านเหล้าธรรมดา ศุกร์ เสาร์ เป็นผับจะ และปิดทุกวันจันทร์ ส่วนราคานี่แล้วแต่อีเว้นเลย มีอีเว้นทุกอาทิตย์<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -1047,7 +1051,7 @@
     },
     "CLUB VERA.html": {
       "settings": {
-        "title": "Website Creator Title",
+        "title": "CLUB VERA",
         "meta_descr": "Website Creator Description",
         "order": 8
       },
@@ -1097,6 +1101,11 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-u",
           "_params": {
             "imageSize": 50,
@@ -1142,12 +1151,7 @@
           },
           "title": "CLUB VERA",
           "text": "ตั้งแต่ที่ปิดปรับปรุงไปเมื่อปลายปี 2015 เมื่อกลับมาเปิดอีกครั้งกลายเป็นว่า Club Vera ได้รับความนิยมมากยิ่งขึ้นกว่าเดิม แม้ว่าร้านนี้จะเปิดเพลงแนวอิเล็กทรอนิกส์แบบธรรมดา ๆ แต่เพราะตั้งอยู่ใกล้ ๆ กับ มหาวิทยาลัยฮงอิกจึงสามารถดึงดูดผู้คนมาได้เป็นจำนวนมาก<br><br>เวลาเปิด-ปิด: 22.00 – 06.00 น.<br>ราคาค่าเข้า: ราว ๆ 10,000 (310 บาท) ขึ้นอยู่กับอีเว้นท์แต่ละวัน<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -1200,8 +1204,8 @@
     },
     "BRAND NU.html": {
       "settings": {
-        "title": "Website Generator Title",
-        "meta_descr": "Website Generator Description",
+        "title": "BRAND NU",
+        "meta_descr": "BRAND NU",
         "order": 10
       },
       "components": [
@@ -1250,6 +1254,11 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-w",
           "_params": {
             "imageSize": 50,
@@ -1295,12 +1304,7 @@
           },
           "title": "BRAND NU",
           "text": "ผับ Brand Nu จะเปิดแค่เพียงเพลงแนว Hip Hop เท่านั้น ซึ่งที่นี่ต้อนรับนักท่องเที่ยวต่างชาติเป็นอย่างดี จึงเหมาะอย่างยิ่งหากเราจะเดินทางไปท่องเที่ยวและแดนซ์อย่างสนุกสนานที่ผับแห่งนี้ อย่างไรก็ตามในตอนนี้ Brand Nu กำลังได้รับความนิยมเป็นอย่างมาก ใครที่อยากไปผับนี้ต้องรีบไปเร็ว ๆ หน่อย<br><br>เวลาเปิด-ปิด: 22.00 – 06.30 น.<br>ราคาค่าเข้า : วันพฤหัสบดีและวันอาทิตย์เข้าฟรี/ ศุกร์ – เสาร์ 10,000 วอน (ประมาณ 310 บาท)<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -1353,8 +1357,8 @@
     },
     "OCTAGON.html": {
       "settings": {
-        "title": "Site Builder Title",
-        "meta_descr": "Site Builder Description",
+        "title": "OCTAGON",
+        "meta_descr": "OCTAGON",
         "order": 7
       },
       "components": [
@@ -1403,6 +1407,11 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-z",
           "_params": {
             "imageSize": 50,
@@ -1448,12 +1457,7 @@
           },
           "title": "OCTAGON",
           "text": "ที่นี่เพลงไม่เดือดมาก จัดเป็นผับผู้ดีเพราะการตกแต่ง+คนที่ไปเที่ยวเนี่ย รู้สึกเป็นอีกระดับเลย ผับใหญ่ มีสองชั้น ชั้นสองเป็นโซนฮิปฮอป เราแนะนำให้ไป octagon ในวันที่มีอีเว้นท์พิเศษ ๆ เช่น ปีใหม่ ฮาโลวีน คริสมาสต์ เพราะออกตาก้อนจัดอีเว้นท์สนุกชอบเชิญดีเจทั่วโลกมา<br><br>ค่าเข้า 30,000วอน ถ้าวันที่มีอีเว้นท์พิเศษประมาณ 40,000วอน ล็อคเกอร์ 5,000วอน<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -1506,8 +1510,8 @@
     },
     "MASS.html": {
       "settings": {
-        "title": "Site Generator Title",
-        "meta_descr": "Site Generator Description",
+        "title": "MASS",
+        "meta_descr": "MASS",
         "order": 9
       },
       "components": [
@@ -1556,6 +1560,11 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-v",
           "_params": {
             "imageSize": 50,
@@ -1601,12 +1610,7 @@
           },
           "title": "MASS",
           "text": "ผับย่านคังนัม ที่เปิดเพลงมันส์มาก เต้นแบบมันหยด ยิ่งใกล้ช่วงปิดผับยิ่งสุดยอด แต่ผับที่นี่จะมีขนาดเล็กอยู่ เปิดเข้ามาก็เจอฟลอร์เต้น ผับที่นี่คนจะแน่นช่วงวันศุกร์และเสาร์<br><br>ช่วงเวลาเปิด-ปิด : วันอาทิตย์-วันพฤหัสบดี 21:00-05:00 , วันศุกร์และเสาร์ 21:00-06:00<br>ค่าเข้าอยู่ที่ วันอาทิตย์-วันพฤหัสบดี 10,000 วอน , วันศุกร์และเสาร์ 20,000 วอน",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
