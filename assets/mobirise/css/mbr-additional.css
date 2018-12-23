@@ -1,8 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+
+
 
 
 
@@ -414,21 +417,6 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#msg-box8-8 .mbr-section-title,
-#msg-box8-8 p {
-  color: #fff;
-}
-#msg-box8-8 .mbr-section-title {
-  color: #efefef;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-size: 100px;
-}
-#header2-9 .mbr-section-text {
-  text-align: left;
-}
-
-
-
 #msg-box8-4 .mbr-section-title,
 #msg-box8-4 p {
   color: #fff;
@@ -458,19 +446,16 @@ h6,
 #features3-6 P {
   color: #cfc187;
 }
-
-
-#header1-0 .mbr-section-title {
-  text-align: center;
-  font-size: 100px;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-  color: #000000;
+#social-buttons4-26 .mbr-section-title,
+#social-buttons4-26 .btn-social {
+  color: #fff;
 }
-#header1-0 .mbr-section-lead SPAN {
-  color: #000000;
-  text-align: center;
-  font-family: 'Oxygen', sans-serif;
-  font-size: 60px;
+#social-buttons4-26 .mbr-section-title {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #f7da64;
+}
+#footer1-3 P {
+  color: #f7da64;
 }
 
 #msg-box8-c .mbr-section-title,
@@ -485,6 +470,13 @@ h6,
 #header2-b .mbr-section-text {
   text-align: left;
 }
+#social-buttons4-1p .mbr-section-title,
+#social-buttons4-1p .btn-social {
+  color: #fff;
+}
+#footer1-a P {
+  color: #f7da64;
+}
 
 #msg-box8-e .mbr-section-title,
 #msg-box8-e p {
@@ -497,6 +489,13 @@ h6,
 }
 #header2-s .mbr-section-text {
   text-align: left;
+}
+#footer1-d P {
+  color: #f7da64;
+}
+#social-buttons4-29 .mbr-section-title,
+#social-buttons4-29 .btn-social {
+  color: #fff;
 }
 
 #msg-box8-h .mbr-section-title,
@@ -511,6 +510,13 @@ h6,
 #header2-t .mbr-section-text {
   text-align: left;
 }
+#social-buttons4-1u .mbr-section-title,
+#social-buttons4-1u .btn-social {
+  color: #fff;
+}
+#footer1-g P {
+  color: #f7da64;
+}
 
 #msg-box8-k .mbr-section-title,
 #msg-box8-k p {
@@ -523,6 +529,13 @@ h6,
 }
 #header2-u .mbr-section-text {
   text-align: left;
+}
+#social-buttons4-1z .mbr-section-title,
+#social-buttons4-1z .btn-social {
+  color: #fff;
+}
+#footer1-j P {
+  color: #f7da64;
 }
 
 #msg-box8-q .mbr-section-title,
@@ -537,6 +550,13 @@ h6,
 #header2-w .mbr-section-text {
   text-align: left;
 }
+#social-buttons4-24 .mbr-section-title,
+#social-buttons4-24 .btn-social {
+  color: #fff;
+}
+#footer1-p P {
+  color: #f7da64;
+}
 
 #msg-box8-y .mbr-section-title,
 #msg-box8-y p {
@@ -550,6 +570,13 @@ h6,
 #header2-z .mbr-section-text {
   text-align: left;
 }
+#social-buttons4-1y .mbr-section-title,
+#social-buttons4-1y .btn-social {
+  color: #fff;
+}
+#footer1-x P {
+  color: #f7da64;
+}
 
 #msg-box8-n .mbr-section-title,
 #msg-box8-n p {
@@ -562,4 +589,55 @@ h6,
 }
 #header2-v .mbr-section-text {
   text-align: left;
+}
+#social-buttons4-21 .mbr-section-title,
+#social-buttons4-21 .btn-social {
+  color: #fff;
+}
+#footer1-m P {
+  color: #f7da64;
+}
+
+#msg-box8-8 .mbr-section-title,
+#msg-box8-8 p {
+  color: #fff;
+}
+#msg-box8-8 .mbr-section-title {
+  color: #efefef;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 100px;
+}
+#header2-9 .mbr-section-text {
+  text-align: left;
+}
+#social-buttons4-1m .mbr-section-title,
+#social-buttons4-1m .btn-social {
+  color: #fff;
+}
+#footer1-7 P {
+  color: #f7da64;
+}
+#msg-box8-27 .mbr-section-title,
+#msg-box8-27 p {
+  color: #fff;
+}
+#footer1-25 P {
+  color: #f7da64;
+}
+
+
+#header1-0 .mbr-section-title {
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #000000;
+}
+#header1-0 .mbr-section-lead SPAN {
+  color: #000000;
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 60px;
+}
+#footer1-1 P {
+  color: #f7da64;
 }

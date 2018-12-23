@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Suthikarn513-17",
-    "currentPage": "MENU.html",
+    "currentPage": "CONTACT US.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 48,
+    "uniqCompNum": 82,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -30,159 +30,6 @@
     "noImageResize": ""
   },
   "pages": {
-    "M2.html": {
-      "settings": {
-        "title": "M2",
-        "meta_descr": "M2",
-        "order": 3
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#efefef",
-              "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "100px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-8",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/14710707604151212055-2000x799-2.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": false,
-            "showButton": true
-          },
-          "title": "M2",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"HOME.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_styles": {
-            ".mbr-section-text": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "header2-9",
-          "_params": {
-            "imageSize": 50,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x1125.png",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/m2-1400x931.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "M2",
-          "text": "ผับเกาหลี ย่านฮงแด แห่งแรก ที่เป็นแนวอิเล็คทรอนิกส์ ซึ่งเปิดให้บริการมายาวนานและเป็นที่นิยมของหนุ่มสาวเกาหลีมากว่า 10 ปี และจุคนได้ประมาณ 1,000 คน จึงไม่แปลกใจเลยว่าบางครั้งจะมีศิลปินและดีเจชื่อดังทั้งในและต่างประเทศมาจัดคอนเสิร์ตบ่อย แนวเพลงของร้านนี้จะเป็นแนวอิเล็กทรอนิกส์ และเพลงแนว Urban Trance<br><br>เวลาเปิด-ปิด : 21.30 – 05.00 น.<br>ราคาค่าเข้า : ราว ๆ 10,000 – 20,000 วอน (310 – 620 บาท) ขึ้นอยู่กับอีเว้นท์แต่ละวัน<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-14",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#000000",
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-embedded-video",
-              "src": "https://youtu.be/DkF0OTlVU5E",
-              "autoplay": false,
-              "loop": "on"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-7",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "SUTHIKARN 513-17"
-        }
-      ]
-    },
     "MENU.html": {
       "settings": {
         "title": "MENU",
@@ -228,7 +75,7 @@
           },
           "title": "MENU",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"HOME.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"JOURNEY TO KOREA.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
         },
         {
           "_tags": [
@@ -273,7 +120,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/m2-1400x931.jpg",
+              "src": "@PROJECT_PATH@/assets/images/madholic-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -283,10 +130,10 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "M2",
+          "title1": "MADHOLIC",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"M2.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Click</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"MADHOLIC.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Click</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/hongdae-nb2-1400x929.jpg",
@@ -435,7 +282,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"CLUB VERA.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Click</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/clubs-in-korea-mass-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/monkey-museum-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -445,10 +292,10 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "MASS",
+          "title3": "MONKEY MUSEUM",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"MASS.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Click</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"MONKEY MUSEUM.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Click</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/a7265b79-d03f-4b92-86bd-0b02e56673e9-1400x933.jpg",
@@ -491,6 +338,38 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "color": "#f7da64"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-26",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "CONTACT US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"CONTACT US.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span></a>         "
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -508,85 +387,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "SUTHIKARN 513-17"
-        }
-      ]
-    },
-    "HOME.html": {
-      "settings": {
-        "main": true,
-        "title": "HOME",
-        "meta_descr": "HOME",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 1
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
+          "text": "SUTHIKARN 513-17 SIYANUSON SCHOOL",
           "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "100px",
-              "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "color": "#000000"
-            },
-            ".mbr-section-lead SPAN": {
-              "color": "#000000",
-              "text-align": "center",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "60px"
+            "P": {
+              "color": "#f7da64"
             }
-          },
-          "_anchor": "header1-0",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/highlights-of-south-korea-40877782-1521806775-imagegallerylightboxlarge-2000x1125.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
-          },
-          "title": "JOURNEY TO SOUTH KOREA<br><br><br>",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a> "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "SUTHIKARN 513-17"
+          }
         }
       ]
     },
@@ -635,7 +441,7 @@
           },
           "title": "NB2",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"HOME.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a> "
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"JOURNEY TO KOREA.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a> "
         },
         {
           "_tags": [
@@ -652,7 +458,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x11255.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x1125.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -722,6 +528,96 @@
           "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nb-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nb-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nbb-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nbb-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nbbb-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nbbb-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nbbbbbb-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nbbbbbb-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1o",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "         <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://www.google.com/maps/place/%ED%81%B4%EB%9F%BD+NB2/@37.5515602,126.9209273,17z/data=!3m1!4b1!4m5!3m4!1s0x357c98c521bf9b35:0x5e1984feae752b45!8m2!3d37.551556!4d126.923116\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span></a> "
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -739,7 +635,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "SUTHIKARN 513-17"
+          "text": "SUTHIKARN 513-17 SIYANUSON SCHOOL",
+          "_styles": {
+            "P": {
+              "color": "#f7da64"
+            }
+          }
         }
       ]
     },
@@ -788,7 +689,7 @@
           },
           "title": "COCOON",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"HOME.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"JOURNEY TO KOREA.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a>"
         },
         {
           "_tags": [
@@ -805,7 +706,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x1125.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x112510.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -892,7 +793,142 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "SUTHIKARN 513-17"
+          "text": "SUTHIKARN 513-17 SIYANUSON SCHOOL",
+          "_styles": {
+            "P": {
+              "color": "#f7da64"
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cc-2000x1120-800x448.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cc-2000x1120.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cccccccccc-2000x1120-800x448.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cccccccccc-2000x1120.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cccccc-2000x1997-800x798.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cccccc-2000x1997.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ccccccc-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ccccccc-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cccccccc-2000x1997-800x798.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cccccccc-2000x1997.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ccccccccc-2000x1997-800x798.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ccccccccc-2000x1997.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cccccccccccc-2000x1120-800x448.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cccccccccccc-2000x1120.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ccccccccccccc-2000x1120-800x448.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ccccccccccccc-2000x1120.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery2-1s",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-29",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/clubcocoonseoul/?rf=473136839398138\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>        <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://www.google.com/maps/place/Club+Cocoon+%ED%81%B4%EB%9F%BD+%EC%BD%94%EC%BF%A4/@37.552292,126.922125,15z/data=!4m2!3m1!1s0x0:0x195724c5073364da?ved=2ahUKEwj4z-_J9LXfAhUIS48KHXy-CnYQ_BIwFnoECAYQCA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span></a> "
         }
       ]
     },
@@ -941,7 +977,7 @@
           },
           "title": "SECRET SOCIETY051",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"HOME.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"JOURNEY TO KOREA.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a>"
         },
         {
           "_tags": [
@@ -958,7 +994,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x1125.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x112510.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1028,6 +1064,136 @@
           "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sssssssssssssssss-2000x1304-800x521.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sssssssssssssssss-2000x1304.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ssssssss-2000x1320-800x528.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ssssssss-2000x1320.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sssss-2000x1305-800x522.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sssss-2000x1305.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/s-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/s-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sssssssssssss-2000x1291-800x516.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sssssssssssss-2000x1291.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sssssssssss-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sssssssssss-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sssssssss-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sssssssss-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sssssssssssssssssssssss-2000x1308-800x523.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sssssssssssssssssssssss-2000x1308.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1v",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1u",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/secretsocietyseoul/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/scrt_society/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://www.google.com/maps/place/%EC%8B%9C%ED%81%AC%EB%A6%BF%EC%86%8C%EC%82%AC%EC%9D%B4%EC%96%B4%ED%8B%B0051/@35.1546287,129.0610991,15z/data=!4m5!3m4!1s0x0:0x159e833dc344d9bf!8m2!3d35.1546287!4d129.0610991\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span></a> "
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1045,7 +1211,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "SUTHIKARN 513-17"
+          "text": "SUTHIKARN 513-17 SIYANUSON SCHOOL",
+          "_styles": {
+            "P": {
+              "color": "#f7da64"
+            }
+          }
         }
       ]
     },
@@ -1094,7 +1265,7 @@
           },
           "title": "CLUB VERA",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"HOME.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"JOURNEY TO KOREA.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a>"
         },
         {
           "_tags": [
@@ -1111,7 +1282,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x1125.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x112510.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1181,6 +1352,136 @@
           "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vvvvvvvvvvvv-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vvvvvvvvvvvv-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vvvvvvvvvvvvvvvv-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vvvvvvvvvvvvvvvv-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vvvvvvvvvv-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vvvvvvvvvv-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vvvvvvv-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vvvvvvv-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vvvv-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vvvv-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vvvvvv-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vvvvvv-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vvv-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vvv-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vvvvvvvv-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vvvvvvvv-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-20",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1z",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/clubverakorea/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>        <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://www.google.com/maps/place/Club+Vera/@37.5543972,126.921925,15z/data=!4m2!3m1!1s0x0:0xdc0ef19d57d426f?ved=2ahUKEwjyuKbK6rXfAhVG7WEKHb1-A6IQ_BIwF3oECAYQCA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span></a> "
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1198,7 +1499,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "SUTHIKARN 513-17"
+          "text": "SUTHIKARN 513-17 SIYANUSON SCHOOL",
+          "_styles": {
+            "P": {
+              "color": "#f7da64"
+            }
+          }
         }
       ]
     },
@@ -1247,7 +1553,7 @@
           },
           "title": "BRAND NU",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"HOME.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"JOURNEY TO KOREA.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a>"
         },
         {
           "_tags": [
@@ -1264,7 +1570,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x1125.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x112510.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1334,6 +1640,136 @@
           "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bnnnnnn-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bnnnnnn-2000x1334.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bnnnnnnnn-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bnnnnnnnn-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bnnnnnnnnnnn-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bnnnnnnnnnnn-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bnnnnnnnnnnnn-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bnnnnnnnnnnnn-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bnnnnnnnnnnnnnnnnnn-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bnnnnnnnnnnnnnnnnnn-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bnnnnnnnnnnnnn-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bnnnnnnnnnnnnn-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bnnnnnnnnnnnnnnnnn-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bnnnnnnnnnnnnnnnnn-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bnnn-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bnnn-2000x1334.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-23",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-24",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/barbrandnu/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>        <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://www.google.com/maps/place/Club+brandnu/@37.550212,126.921986,15z/data=!4m5!3m4!1s0x0:0x78e9ad6baeb5e81b!8m2!3d37.550212!4d126.921986\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span></a> "
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1351,7 +1787,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "SUTHIKARN 513-17"
+          "text": "SUTHIKARN 513-17 SIYANUSON SCHOOL",
+          "_styles": {
+            "P": {
+              "color": "#f7da64"
+            }
+          }
         }
       ]
     },
@@ -1400,7 +1841,7 @@
           },
           "title": "OCTAGON",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"HOME.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"JOURNEY TO KOREA.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a>"
         },
         {
           "_tags": [
@@ -1417,7 +1858,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x1125.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x112510.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1487,6 +1928,136 @@
           "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/oo-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/oo-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ooo-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ooo-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/oooo-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/oooo-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ooooo-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ooooo-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/oooooo-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/oooooo-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ooooooo-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ooooooo-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ooooooooo-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ooooooooo-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1x",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1y",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/cluboctagon/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/octagonseoul/?hl=th\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://www.google.com/maps/place/Octagon+Club/@37.5110945,127.0313812,15z/data=!4m2!3m1!1s0x0:0xa734b15e52efa251?ved=2ahUKEwjnhYTw6LXfAhUDZt4KHc7wAOwQ_BIwFnoECAYQCA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span></a> "
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1504,14 +2075,19 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "SUTHIKARN 513-17"
+          "text": "SUTHIKARN 513-17 SIYANUSON SCHOOL",
+          "_styles": {
+            "P": {
+              "color": "#f7da64"
+            }
+          }
         }
       ]
     },
-    "MASS.html": {
+    "MONKEY MUSEUM.html": {
       "settings": {
-        "title": "MASS",
-        "meta_descr": "MASS",
+        "title": "MONKEY MUSEUM",
+        "meta_descr": "MONKEY MUSEUM",
         "order": 9
       },
       "components": [
@@ -1551,9 +2127,9 @@
             "showText": false,
             "showButton": true
           },
-          "title": "MASS",
+          "title": "MONKEY MUSEUM",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"HOME.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"JOURNEY TO KOREA.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a>"
         },
         {
           "_tags": [
@@ -1570,7 +2146,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x1125.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x112510.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1590,7 +2166,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/clubs-in-korea-mass-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/monkey-museum-600x400.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1608,7 +2184,7 @@
               "size": 250
             }
           },
-          "title": "MASS",
+          "title": "MONKEY MUSEUM",
           "text": "ผับย่านคังนัม ที่เปิดเพลงมันส์มาก เต้นแบบมันหยด ยิ่งใกล้ช่วงปิดผับยิ่งสุดยอด แต่ผับที่นี่จะมีขนาดเล็กอยู่ เปิดเข้ามาก็เจอฟลอร์เต้น ผับที่นี่คนจะแน่นช่วงวันศุกร์และเสาร์<br><br>ช่วงเวลาเปิด-ปิด : วันอาทิตย์-วันพฤหัสบดี 21:00-05:00 , วันศุกร์และเสาร์ 21:00-06:00<br>ค่าเข้าอยู่ที่ วันอาทิตย์-วันพฤหัสบดี 10,000 วอน , วันศุกร์และเสาร์ 20,000 วอน",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -1632,12 +2208,142 @@
             "video": {
               "active": true,
               "class": "mbr-embedded-video",
-              "src": "https://youtu.be/cdwkve_bPWE",
+              "src": "https://www.youtube.com/watch?v=kWwq8_Wst-0",
               "autoplay": false,
               "loop": "on"
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mmmmmmmmmmmmmmmmmmmmmmm-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mmmmmmmmmmmmmmmmmmmmmmm-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mmmmmmmmmmmmm-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mmmmmmmmmmmmm-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mmmmmmmmmmmmmmmm-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mmmmmmmmmmmmmmmm-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mm-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mm-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mmmmm-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mmmmm-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mmmm-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mmmm-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mmm-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mmm-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mmmmmmm-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mmmmmmm-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-22",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-21",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/monkeymuseum/?__tn__=-UK-R\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/monkey_museum/?hl=th\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://www.google.com/maps/place/monkey+museum/@37.52415,127.041328,15z/data=!4m5!3m4!1s0x0:0x6d0b5ae5e3efd922!8m2!3d37.52415!4d127.041328\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span></a> "
         },
         {
           "_tags": [
@@ -1657,7 +2363,502 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "SUTHIKARN 513-17"
+          "text": "SUTHIKARN 513-17 SIYANUSON SCHOOL",
+          "_styles": {
+            "P": {
+              "color": "#f7da64"
+            }
+          }
+        }
+      ]
+    },
+    "MADHOLIC.html": {
+      "settings": {
+        "title": "MADHOLIC",
+        "meta_descr": "M2",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "100px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-8",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/14710707604151212055-2000x799-2.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": true
+          },
+          "title": "MADHOLIC",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"JOURNEY TO KOREA.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header2-9",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x112510.png",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/madholic-600x399.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "MADHOLIC",
+          "text": "Madholic 매드홀릭 เม-ดึ-โฮล-ลิค!!! <br>ฮิปฮอปคลับย่านฮงแดที่ห้ามสูบบุหรี่&nbsp;เพลงดีมาก Hiphopขั้นสุด #Dean #Crush #ZionT #Gaeko #AOMG #OLLTII ล้วนเคยมาแสดงที่นี่&nbsp;<br><span style=\"font-size: 1rem; line-height: 1.5;\">#ศลปจะมาแสดงเฉพาะวันที่มีอีเว้นท์</span><br>#แต่ถ้าโชคดีอาจได้เจอเวลาเค้ามาเที่ยวกันเอง<br><br><br>ค่าเข้า 10,000 วอน ศุกร์-เสาร์ 15,000 วอน <br>เหล้าถูก Tequila ชอตล่ะ 4,000 พวกค้อกเทล ก็เริ่มแค่ 5,000 วอน<br>เวลาเปิด-ปิด : 21.30 – 05.00 น.<br>ราคาค่าเข้า : ราว ๆ 10,000 – 20,000 วอน (310 – 620 บาท) ขึ้นอยู่กับอีเว้นท์แต่ละวัน<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-14",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#000000",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/watch?v=N4a4V7WQhkw",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/45046160-1687431108028805-1750717674456875008-o-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/45046160-1687431108028805-1750717674456875008-o-2000x1334.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/45099194-1687432788028637-926297838701248512-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/45099194-1687432788028637-926297838701248512-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/45073536-1687432421362007-6417375563421319168-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/45073536-1687432421362007-6417375563421319168-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/45085740-1687432141362035-2082815394870984704-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/45085740-1687432141362035-2082815394870984704-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/45221939-1687433011361948-1619302326718169088-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/45221939-1687433011361948-1619302326718169088-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/45249888-1687431521362097-5523061302496329728-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/45249888-1687431521362097-5523061302496329728-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/45035700-1687431148028801-3373026701620543488-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/45035700-1687431148028801-3373026701620543488-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/45099870-1687430984695484-2959891916222627840-o-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/45099870-1687430984695484-2959891916222627840-o-2000x1334.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1c",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/madholic.hongdae/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/madholic_official/?hl=en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://www.google.com/maps/place/Club+Madholic/@37.550621,126.920679,15z/data=!4m5!3m4!1s0x0:0x754da60c397db42d!8m2!3d37.550621!4d126.920679\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span></a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-7",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "SUTHIKARN 513-17 SIYANUSON SCHOOL",
+          "_styles": {
+            "P": {
+              "color": "#f7da64"
+            }
+          }
+        }
+      ]
+    },
+    "CONTACT US.html": {
+      "settings": {
+        "title": "CONTACT US",
+        "meta_descr": "CONTACT US"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-27",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/nbbbbb-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": true
+          },
+          "title": "CONTACT US",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"JOURNEY TO KOREA.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-28",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2018-12-16-8-2000x112510.png",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/21078319-1889592114594736-1197975790854950933-n-1400x1401.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Suttikarn Phattanaphol",
+          "text": "Suttikarn Phattanaphol 513-17<br>SCI-CHINESE<br>SIYANUSON",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.facebook.com/profile.php?id=100006318963540&amp;_rdc=1&amp;_rdr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FACEBOOK</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-25",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "SUTHIKARN 513-17 SIYANUSON SCHOOL",
+          "_styles": {
+            "P": {
+              "color": "#f7da64"
+            }
+          }
+        }
+      ]
+    },
+    "JOURNEY TO KOREA.html": {
+      "settings": {
+        "main": true,
+        "title": "JOURNEY TO KOREA",
+        "meta_descr": "HOME",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "100px",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "color": "#000000"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/highlights-of-south-korea-40877782-1521806775-imagegallerylightboxlarge-2000x1125.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "title": "JOURNEY TO SOUTH KOREA<br><br><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"MENU.html\" data-toolbar=\"-mbrBtnMove\">MENU</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "SUTHIKARN 513-17 SIYANUSON SCHOOL",
+          "_styles": {
+            "P": {
+              "color": "#f7da64"
+            }
+          }
         }
       ]
     }
